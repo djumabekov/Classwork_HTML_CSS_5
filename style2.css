@@ -1,0 +1,45 @@
+.one{
+    display: inline-block;
+    
+}
+
+.two{
+    display: inline-block;
+}
+
+.block1{
+    width: 300px;
+    height: 350px;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.block2{
+    width: 300px;
+    height: 300px;
+    border: 3px solid rgb(255, 0, 0);
+    margin-top: 10px;
+}
+
+.block3{
+    width: 300px;
+    height: 104px;
+    border: 3px solid rgb(0, 60, 255);
+    margin-left: 10px;
+    object-position: top;
+}
+
+.block4{
+    width: 300px;
+    height: 350px;
+    border: 3px solid rgb(255, 125, 3);
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.block5{
+    width: 300px;
+    height: 180px;
+    border: 3px solid rgb(62, 3, 255);
+    margin-left: 10px;
+    margin-top: 10px;
+}
